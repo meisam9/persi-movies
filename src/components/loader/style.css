@@ -1,0 +1,10 @@
+.loader {
+    text-align: center;
+    margin: 0 auto;
+    width: 150px;
+    height: 80px; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
